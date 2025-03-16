@@ -1,8 +1,8 @@
 # Протестировать
 1. Клонируем репозиторий
 ```
-git clone https://github.com/rt1718/emetall-tz.git
-cd emetall-tz
+git clone https://github.com/rt1718/emtl-tz.git
+cd emtl-tz
 ```
 2. Устанавливаем зависимости через Composer
 ```
